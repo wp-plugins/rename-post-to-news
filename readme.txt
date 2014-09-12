@@ -6,7 +6,7 @@ Requires at least: 3.0
 Tested up to: 4.0
 Stable tag: 1.0
 
-Renames the build in post type Post to News
+In wp-admin, renames the build in post type Post to News.
 
 == Description ==
 
