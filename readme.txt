@@ -1,9 +1,8 @@
 === Rename Post To News ===
 Contributors: urre
-Donate link: http://urre.me/donate
 Tags: news, posts
 Requires at least: 3.0
-Tested up to: 4.0
+Tested up to: 4.2
 Stable tag: 1.1
 
 Renames the build in post type Post to News
